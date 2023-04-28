@@ -21,5 +21,9 @@ h1 {
 }
 
 a {
+<<<<<<< black-link
+  color: #000000;
+=======
   color: #ff3300;
+>>>>>>> master
 }
